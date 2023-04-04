@@ -1,9 +1,7 @@
-# Project Title
+# Running Analytics
 
-One Paragraph of the project description
+Running Analytics is a small project to generate some analysis through graphical plotting packages in python of activities recorded for users in the strava fitness tracking app. Some potential use cases for these scripts and plots could be for improved training, informed reflection of progress acquired in historical data, and generating cool art.
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Purpose
 
