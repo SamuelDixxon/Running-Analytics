@@ -17,8 +17,8 @@ Additionally the setup will require interacting with the Strava API. This will r
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- [Anaconda Software Suite (Python)](https://www.anaconda.com/)
+- [Strava API](https://developers.strava.com/)
 
 ### Installing
 
@@ -54,7 +54,7 @@ Checks if the best practices and the right coding style has been used.
 
 ## Deployment
 
-Add additional notes to deploy this on a live system -->
+No additional deployment notes have been added for helping run this code on your local machine, however feel free to leave a comment on the issues page!
 
 ## Built With
 
