@@ -6,5 +6,5 @@ This first analysis was found on a reddit post and helped curate a lot of the in
 ![Running Analysis1](strava_animation.gif)
 
 <p align="center">
-  <img width="460" height="300" src="strava_animation.gif">
+  <img width="400" height="400" src="strava_animation.gif">
 </p>
