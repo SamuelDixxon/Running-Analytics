@@ -23,6 +23,7 @@ Requirements for the software and other tools to build, test and push
 ### Installing
 
 - Clone this repository 
+    - If you need help cloning, check out Github's documentation here: [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - Visit the link above and download anaconda software suite for your machine
 - Once installed, open the jupyter package by searching for Jupyter in the installed directory
 - Confirm you can run python code through a simple hello world print statemnent. Cells can be run in a modular sense with the play button at the top or by the keyboard shortcut (cntrl-entr)
