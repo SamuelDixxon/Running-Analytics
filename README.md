@@ -22,19 +22,11 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
-
-The first step to getting this program for your own local analysis is downloading the Anaconda Software Suite, which allows you to run python on your local machine.
-
-    Give the example
-
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
+- Clone this repository 
+- Visit the link above and download anaconda software suite for your machine
+- Once installed, open the jupyter package by searching for Jupyter in the installed directory
+- Confirm you can run python code through a simple hello world print statemnent. Cells can be run in a modular sense with the play button at the top or by the keyboard shortcut (cntrl-entr)
+- Generate the API key for your account throught the website linked above and the following steps:
 
 <!-- ## Running the tests
 
