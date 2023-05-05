@@ -1,6 +1,6 @@
 # Running Analytics
 
-Running Analytics is a small project to generate some analysis through graphical plotting packages in python of activities recorded for users in the strava fitness tracking app. Some potential use cases for these scripts and plots could be for improved training, informed reflection of progress acquired in historical data, and generating cool art.
+Running Analytics is a small project to generate some analysis through graphical plotting packages (seaborn and matplotlib) in python of activities recorded for users in the strava fitness tracking app. Some potential use cases for these scripts and plots could be for improved training, informed reflection of progress acquired in historical data, and generating cool art.
 
 
 ## Purpose
