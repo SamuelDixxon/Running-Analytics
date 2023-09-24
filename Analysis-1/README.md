@@ -2,7 +2,7 @@
 
 ### Overview
 This script will plot a graph of distance versus the average pace accrued during runs.
-This scatter graph is also accompanied by an interesting histogram on each respective
+This scatter graph is also accompanied by a  histogram on each respective
 axis, which provides insight to how the data is distributed in the representative sample.
 ### Script Details
 The script has two main portions. The first portion gathers user-specific data from the strava API. The second uses the data gathered to do some animated plotting.
