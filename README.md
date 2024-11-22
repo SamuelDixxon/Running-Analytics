@@ -29,11 +29,8 @@ Requirements for the software and other tools to build, test and push
     - Once installed, open the jupyter package by searching for Jupyter in the installed directory
     - Confirm you can run python code through a simple hello world print statemnent. Cells can be run in a modular sense with the play button at the top or by the keyboard shortcut (cntrl-entr)
     
-- Generate the API key for your account throught the website linked above and the following steps:
-    - 1. 
-    - 2. 
-    - 3.
-    - 4. Good practice is to store your own private keys in a .env file hidden from the git remote project through use of the gitignore file. This is for sake of keeping your API key private from others. Please keep this mind if you add your own branches to this repository to show your results!
+- Generate the API key for your account through strava to access your personal data and querying
+    - https://developers.strava.com/
 
 <!-- ## Running the tests
 
