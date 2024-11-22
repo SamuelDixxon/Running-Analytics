@@ -40,7 +40,7 @@ Explain what these tests test and why -->
 
 Checks if the best practices and the right coding style has been used.
 
-    Give an example
+
 
 ## Deployment
 
