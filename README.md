@@ -3,12 +3,6 @@
 Running Analytics is a small project to generate some analysis through graphical plotting packages (seaborn and matplotlib) in python of activities recorded for users in the strava fitness tracking app. Some potential use cases for these scripts and plots could be for improved training, informed reflection of progress acquired in historical data, and generating cool art.
 
 
-## Purpose
-
-Exercise is a great way to relieve stress and become closer to our natural beings. Its also a great way to get out doors and experience the physical world and our beautiful planet! The beauty of exercise today is that there is no barrier based on shape, size, gender, or sex! This repository intends to support those who are interested in utilizing the strava application ( a common, popular fitness tracker ) to document their journies and investigate to the quantitative side of the activity.
-
-"It's not the Destination, It's the journey." - Ralph Waldo Emerson
-
 ## Getting Started
 
 All of these scripts will utilize the Anaconda software suite, particularly Jupyter Notebooks, to run python for analysis.
